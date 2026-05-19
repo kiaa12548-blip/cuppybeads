@@ -227,7 +227,7 @@ function submitForm(e) {
   );
 
   // Open WA
-  window.open(`https://wa.me/6281234567890?text=${waText}`, '_blank');
+  window.open(`https://wa.me/6281558534496?text=${waText}`, '_blank');
 
   // Reset form
   document.getElementById('contactForm').reset();
