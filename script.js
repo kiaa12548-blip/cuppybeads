@@ -172,7 +172,7 @@ function openOrder(name, price) {
     `Halo Cuppy Beads! 🎀\nSaya ingin memesan:\n✨ ${name} – ${price}\n\nMohon info ketersediaan dan cara pemesanannya ya!`
   );
   document.getElementById('orderWaLink').href =
-    `https://wa.me/6281234567890?text=${waMsg}`;
+    `https://wa.me/6281558534496?text=${waMsg}`;
 
   modal.classList.add('open');
   document.body.style.overflow = 'hidden';
